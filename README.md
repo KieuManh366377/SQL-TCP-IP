@@ -4,6 +4,7 @@ SQL TCP/IP
 Giải Pháp : Lấy, Ghi và xóa dữ liệu từ xa qua Internet
 
 Cảnh Báo Lỗi:
+
 1/ Sẻ lỗi khi truy xuất File *.xlsx; *.xlsm; *.xlsb
 
 2/ Xử lý lỗi khi truy xuất dữ liệu File *.xlsx; *.xlsm; *.xlsb
